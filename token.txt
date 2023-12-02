@@ -1,1 +1,3 @@
 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
+git remote set-url origin https://github.com/username/repository.git
+git config credential.helper 'cache --timeout=600'
